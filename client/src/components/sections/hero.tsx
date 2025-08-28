@@ -31,6 +31,10 @@ export function HeroSection() {
             <span className="block">Vamshi Krishna</span>
             <span className="block">Pullaiahgari</span>
           </h1>
+          <div className="inline-flex items-center bg-white/20 backdrop-blur-sm rounded-full px-4 py-2 mb-4">
+            <div className="w-2 h-2 bg-green-400 rounded-full mr-2 animate-pulse"></div>
+            <span className="text-sm font-medium">Available for new opportunities</span>
+          </div>
           <p className="text-xl md:text-2xl mb-8 font-light max-w-4xl mx-auto leading-relaxed">
             Full Stack Java Developer | AI & Cloud Enthusiast | Storytelling through Code & Travel
           </p>
