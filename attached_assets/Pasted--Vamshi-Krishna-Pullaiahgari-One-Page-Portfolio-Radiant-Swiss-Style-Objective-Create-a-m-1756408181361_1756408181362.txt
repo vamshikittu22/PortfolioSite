@@ -1,0 +1,113 @@
+# Vamshi Krishna Pullaiahgari — One‑Page Portfolio (Radiant Swiss Style)
+
+## Objective
+Create a minimal, whitespace-rich, Swiss-inspired one-page portfolio that is visually engaging with a radiant color palette. The portfolio should highlight:
+- **Resume content** (skills, experience, education, projects, awards)
+- **Your personal blog** (travelofvk.blogspot.com)
+- **Your social media presence** (Instagram: @vamshi._.ki22u, Twitter: @ki22u_, LinkedIn: your profile)
+- **GitHub** presence (github.com/vamshikittu22)
+Target audience: hiring managers, HR, leads, professors, co-workers, students.
+
+---
+
+## Style Guide
+- **Design:** Swiss-style grid layout, clear hierarchy, generous whitespace.
+- **Typography:** Sans-serif (Montserrat, Open Sans, or Helvetica). Large bold headlines; medium subheads; readable body text.
+- **Color Palette:**
+  - Teal Blue: `#1F7A8C`
+  - Coral: `#F25F5C`
+  - Soft Yellow: `#FFE066`
+  - Muted Purple: `#77628C`
+  - Light Gray/White: `#F7F7F7`
+- **Visual Elements:** Simple geometric shapes, subtle shadows, rounded corners.
+- **Animations:** Light fade/slide-in on scroll, button hover scale.
+
+---
+
+## Page Structure & Content
+
+### 1. **Hero Section**
+- Gradient background (teal → coral → soft yellow).
+- Headline: **"Hi, I'm Vamshi Krishna Pullaiahgari"**
+- Subtitle: *“Full Stack Java Developer | AI & Cloud Enthusiast | Storytelling through Code & Travel”*
+- Buttons: **[View My Work]** (teal) and **[Contact Me]** (coral), with hover effect.
+- Optional: Profile photo or abstract illustration in one corner.
+
+### 2. **Contact Info & Summary**
+- Brief row or card displaying:
+  - Email: vamshikrishna2297@gmail.com
+  - Phone: +1 913‑326‑7373
+  - Location: Overland Park, Kansas
+  - GitHub, LinkedIn links.
+- Professional Summary (from resume):
+  > “Full Stack Java Developer with 4.5+ years building scalable, cloud-native apps using Java, Spring Boot, React, AI-driven solutions, microservices, cloud infrastructure, and agile practices.”
+
+### 3. **Technical Skills**
+- Grid of color-coded badges:
+  - Java/Backend: teal
+  - Frontend: coral
+  - Cloud/DevOps: purple
+  - AI/ML: yellow
+- Categories with hover interaction.
+
+### 4. **Experience Timeline**
+- Vertical timeline with alternating cards:
+  - **AI Labs Web LLC (Aug 2024 – Present):**
+    - “Reduced compliance audit time by **40%** via secure REST APIs”
+    - “Improved dashboard response times by **60%** using React optimizations”
+    - “Cut deployment errors by **50%** and downtime by **75%** using Docker + Jenkins”
+    - “Built AI fraud detection models with TensorFlow – **35% more accurate**”
+  - **Mphasis (Feb 2020 – Aug 2023):**
+    - “Built microservices for banking systems”
+    - “Improved frontend load times ~30%”
+    - “Automated workflows using Python & SQL – saved 20–40% effort”
+    - “Improved anomaly detection accuracy by 35–40%”
+  - **Cognizant Intern (Aug 2019 – Feb 2020):**
+    - “Developed REST APIs with Spring Boot”
+    - “Built realtime messaging with WebSocket + Redis Pub/Sub”
+
+### 5. **Projects**
+- Grid of cards with light-colored backgrounds:
+  - **Movie Booking System** – PHP, JS, MySQL (real-time seats, age-pricing)
+  - **Event Management System** – .NET Core MVC, C#
+  - **Travel Planning App** – React.js frontend + PHP/MySQL backend
+  - Also reference GitHub projects (if any public repos show additional work).
+
+### 6. **Blog — “Journey & Insights”**
+- Show recent posts from your **travelofvk.blogspot.com**, including titles and short excerpts.
+- Cards use pastel headers with accent color highlighting.
+
+### 7. **Social Media — “From My World”**
+- Embed or display content only from your accounts:
+  - Instagram (@vamshi._.ki22u): show recent image thumbnails.
+  - Twitter (@ki22u_): embed recent tweets or styled quote cards.
+  - LinkedIn: embed your posts or article previews.
+- Layout: three-column grid on desktop; each card with accent borders and hover effect.
+
+### 8. **Education**
+- Side-by-side text:
+  - **M.Sc. in IT**, University of Central Missouri
+  - **B.Tech in CS**, JNTUH, Hyderabad
+
+### 9. **Awards & Highlights**
+- Row of icons with labels:
+  - 🏅 Top Performer, Mphasis (2022)
+  - 🪂 Completed highest bungee jump in India (2018 at Jumpin Heights)
+
+### 10. **Footer**
+- Background gradient (muted purple → teal)
+- Social icons: GitHub, LinkedIn, Instagram, Twitter (hover accent).
+- Text: “Built by Vamshi Krishna © 2025”
+
+---
+
+## Implementation Tips
+- Fully **responsive** (mobile-first).
+- Use **semantic HTML**, alt text for images, high-contrast colors for accessibility.
+- Smooth scroll for in-page navigation.
+- Hover states for buttons and cards.
+
+---
+
+### Final Output Goal
+A polished, recruiter-ready portfolio that is minimal and airy, colorful yet professional, and compellingly authentic—showcasing your technical strengths, personal story, travel insights, and active social presence.
