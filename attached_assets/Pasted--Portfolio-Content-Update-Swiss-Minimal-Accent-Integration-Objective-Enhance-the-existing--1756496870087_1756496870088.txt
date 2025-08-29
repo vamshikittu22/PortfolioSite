@@ -1,0 +1,91 @@
+# Portfolio Content Update — Swiss Minimal Accent Integration
+
+## Objective
+Enhance the existing one-page portfolio with actual sourced content from your blog and social media—integrated into the **Swiss-Minimal design ethos**: modular grid, whitespace-rich layouts, and vibrant gradients.
+
+---
+
+## Content to Include
+
+### 1. Blog Highlights (“Journey & Insights”)
+::: blog-card
+**Title:** [Coorg – 3-Year-Old Dream](https://travelsofvk.blogspot.com/2020/04/coorg-3-year-old-dream.html)  
+**Excerpt:** A journey to Coorg, fulfilling a long-held dream filled with adventure and unforgettable experiences.
+:::
+
+::: blog-card
+**Title:** [My Travel Story – Rishikesh](https://travelsofvk.blogspot.com/2019/09/my-travel-story-rishikesh.html)  
+**Excerpt:** A solo trip to Rishikesh, exploring the spiritual and adventurous facets of the city.
+:::
+
+---
+
+### 2. Instagram Moments
+(Real posts from **@vamshi._.ki22u**)
+::: insta-card
+**Image URL:** *[Provide the direct URL to an actual Instagram post image]*  
+**Caption:** *[Insert the exact caption text from the post]*
+**Link:** https://www.instagram.com/p/…  
+:::
+
+::: insta-card
+**Image URL:** *[Provide a second Instagram post image URL]*  
+**Caption:** *[Insert its caption from your post]*  
+**Link:** https://www.instagram.com/p/…  
+:::
+
+---
+
+### 3. Twitter/X Highlights
+(Real tweets from **@ki22u_**)
+::: twitter-card
+**Tweet:** *[Insert full tweet text from your account]*  
+**Date:** *[Actual tweet date, e.g., Apr 10, 2025]*  
+**Link:** https://twitter.com/ki22u_/status/…  
+:::
+
+::: twitter-card
+**Tweet:** *[Another actual tweet text]*  
+**Date:** *[Tweet date]*  
+**Link:** https://twitter.com/ki22u_/status/…  
+:::
+
+---
+
+### 4. LinkedIn Highlights
+(Real posts from your **LinkedIn profile**)
+::: linkedin-card
+**Post Title:** *[Exact title of your LinkedIn post]*  
+**Excerpt:** *[Short excerpt or summary of the post]*  
+**Link:** https://www.linkedin.com/in/vamshi-krishna-pullaiahgari/detail/recent-activity/posts/…  
+:::
+
+::: linkedin-card
+**Post Title:** *[Another LinkedIn post title]*  
+**Excerpt:** *[Excerpt from post]*  
+**Link:** [LinkedIn Post](https://www.linkedin.com/…)  
+:::
+
+---
+
+## Styling Guidelines
+- Utilize modular grid layout similar to the **Swiss Minimal template**.
+- Apply **radiant gradient backgrounds** (e.g., soft pastel → vibrant hues) to each card.
+- Consistent **typography**: bold sans-serif headers, clean body text.
+- Generous **padding** and whitespace throughout.
+- Subtle **hover effects**: raise, shadow, or color shift on card hover.
+- Layout remains **mobile-first and responsive**.
+
+---
+
+## Placement in Portfolio
+- Insert this “Blog & Social Highlights” section **near the end**—after projects and before the footer.
+- Maintains flow: professionalism → storytelling → personal insights → contact.
+
+---
+
+###  Next Steps
+Please supply the **actual image URLs, captions, tweet text/dates, and LinkedIn titles/excerpts** from your accounts, so I can populate the prompt with real content ready for rendering.
+
+Let me know when you're ready—or if you'd like help fetching those details!
+::contentReference[oaicite:1]{index=1}
